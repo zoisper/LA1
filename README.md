@@ -1,2 +1,2 @@
 # LA1
-Fichas de Trabalho
+Laboratório de Algoritmia I
